@@ -1,4 +1,4 @@
-# Ejemplo-TDA
+# Ejemplo Factorial mediante Recursividad 
 Aplicación de consola
 
 Aplicación de consola en donde se hace uso de la recursividad, es este caso se calcula el factorial de un número que el usuario digite.
